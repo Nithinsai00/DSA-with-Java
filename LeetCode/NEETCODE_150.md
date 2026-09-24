@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 4 / 150 (2.7%)
+- **Completed:** 5 / 150 (3.3%)
 
 ---
 
@@ -148,7 +148,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Distinct Subsequences
 - [ ] Edit Distance
 - [ ] Burst Balloons
-- [ ] Regular Expression Matching
+- [x] [Regular Expression Matching](./Java/Hard/10. Regular Expression Matching/)
 
 ### 📂 Greedy
 - [ ] Maximum Subarray
