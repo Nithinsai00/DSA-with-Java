@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 3 / 65 (4.6%)
+- **Completed:** 4 / 65 (6.2%)
 
 ---
 
@@ -98,7 +98,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 - [ ] Final Prices With a Special Discount in a Shop
 - [ ] 132 Pattern
 - [ ] Largest Rectangle in Histogram
-- [ ] Trapping Rain Water
+- [x] [Trapping Rain Water](./Java/Hard/42. Trapping Rain Water/)
 
 ### 📂 Module  2.6: Stack Design & History Simu
 - [ ] Design Browser History
