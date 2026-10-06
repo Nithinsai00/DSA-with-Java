@@ -1,6 +1,6 @@
 # 📝 65. Valid Number (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/valid-number/)
+🔗 [Problem Link](https://leetcode.com/problems/valid-number)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** 1 ms
-- **Memory:** 44.2 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
