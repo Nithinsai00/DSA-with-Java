@@ -3,7 +3,7 @@
 Track your progress on the Grind 75 coding interview preparation list.
 
 ## Progress
-- **Completed:** 10 / 75 (13.3%)
+- **Completed:** 11 / 75 (14.7%)
 
 ---
 
@@ -53,7 +53,7 @@ Track your progress on the Grind 75 coding interview preparation list.
 
 ### 📂 Interval
 - [ ] Insert Interval
-- [ ] Merge Intervals
+- [x] [Merge Intervals](./Java/Medium/56. Merge Intervals/)
 - [ ] Non-overlapping Intervals
 - [ ] Meeting Rooms
 - [ ] Meeting Rooms II
