@@ -1,6 +1,6 @@
 # 📝 52. N-Queens II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/n-queens-ii)
+🔗 [Problem Link](https://leetcode.com/problems/n-queens-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C++-blue)
 
@@ -8,8 +8,8 @@
 Backtracking, Algorithm X
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 6 ms
+- **Memory:** 8.4 MB
 
 ---
 
