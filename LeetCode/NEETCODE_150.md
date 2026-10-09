@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 16 / 150 (10.7%)
+- **Completed:** 17 / 150 (11.3%)
 
 ---
 
@@ -100,7 +100,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Backtracking
 - [ ] Subsets
 - [ ] Combination Sum
-- [ ] Permutations
+- [x] [Permutations](./Java/Medium/46. Permutations/)
 - [ ] Subsets II
 - [x] [Combination Sum II](./Java/Medium/40. Combination Sum II/)
 - [ ] Word Search
