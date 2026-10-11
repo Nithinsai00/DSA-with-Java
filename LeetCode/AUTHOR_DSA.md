@@ -85,7 +85,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Remove Duplicates II
 - [ ] Duplicate Zeros
 - [ ] Merge Two Sorted Arrays
-- [x] [Plus One](./Plaintext/Easy/66. Plus One/)
+- [x] [Plus One](./Java/Easy/66. Plus One/)
 
 ### 📂 MODULE  3.4: FREQUENCYLIKE PROBLEMS Cont
 - [x] [Contains Duplicate](./Java/Easy/217. Contains Duplicate/)
