@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 12 / 238 (5.0%)
+- **Completed:** 13 / 238 (5.5%)
 
 ---
 
@@ -105,7 +105,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Smallest Range I
 
 ### 📂 MODULE  3.6: SEARCHING WITHOUT FORMAL BI
-- [ ] Search Insert Position
+- [x] [Search Insert Position](./Java/Easy/35. Search Insert Position/)
 - [ ] Search in Rotated Sorted Array
 - [ ] Find First and Last Position of Element in Sorted Array
 - [ ] Find Peak Element
